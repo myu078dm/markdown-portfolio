@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+🔢
+1. One
+2. Two
+3. Three
+4. Five
+
+* Elephant
+* Tiger
